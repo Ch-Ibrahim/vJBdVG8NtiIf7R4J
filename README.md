@@ -1,4 +1,4 @@
-he current marketing campaign depends on repeated phone calls to secure product subscriptions. To improve efficiency and reduce costs, it is recommended that the bank first identify clients with the highest probability of subscribing to a term deposit. By prioritizing these clients for outreach, the campaign can minimize unnecessary calls, optimize resource allocation, and achieve better conversion rates.
+The current marketing campaign depends on repeated phone calls to secure product subscriptions. To improve efficiency and reduce costs, it is recommended that the bank first identify clients with the highest probability of subscribing to a term deposit. By prioritizing these clients for outreach, the campaign can minimize unnecessary calls, optimize resource allocation, and achieve better conversion rates.
 
 # Prerequisites
 To run the code, the following packages must be installed:
