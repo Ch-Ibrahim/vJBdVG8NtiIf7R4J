@@ -1,5 +1,3 @@
-This is a professional and comprehensive README structure for your GitHub repository. It is designed to highlight your technical proficiency, business acumen, and the structured approach you took during your Apziva residency.
-
 ---
 
 # Term Deposit Marketing: Predictive Analysis & Optimization
