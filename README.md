@@ -59,21 +59,6 @@ The project follows a standard Data Science lifecycle:
 * **Financial Health:** Customers with higher balances and no existing loans showed a higher propensity to invest in term deposits.
 * **Optimization:** By using this model, the bank can prioritize the top 20% of customers most likely to convert, potentially capturing over 80% of total subscribers while reducing total calls by 50%.
 
-## 🛠️ How to Use
-
-1. **Clone the Repo:**
-```bash
-git clone https://github.com/Ch-Ibrahim/vJBdVG8NtiIf7R4J.git
-
-```
-
-
-2. **Install Dependencies:**
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn xgboost
-
-```
-
 
 3. **Run the Notebook:**
 Open `Term Deposit Marketing Full Project.ipynb` in Jupyter or Google Colab to see the full analysis.
